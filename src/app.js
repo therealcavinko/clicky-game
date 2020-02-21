@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import ImageFileNames from "./images";
+import images from "./images";
 //---------------------------------------------------
 class App extends Component {
 	state = {
